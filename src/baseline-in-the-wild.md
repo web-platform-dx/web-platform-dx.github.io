@@ -30,6 +30,7 @@ You can find web-features and Baseline data in the places listed below. If you s
 - [RUM Archive Insights](https://rumarchive.com/insights/), a collection of RUM Archive data visualizations, including yearly Baseline features.
 - [Baseline MCP Server](https://github.com/yamanoku/baseline-mcp-server), a Model Context Protocol (MCP) server that provides Baseline information for web features.
 - [browserslist-config-baseline](https://github.com/web-platform-dx/browserslist-config-baseline), a module that turns Baseline targets into [browserslist](https://github.com/browserslist/browserslist)-compatible lists of browser versions. Dynamically target Widely available by installing the module using your package manager of choice and adding `"browserslist": "extends browserslist-config-baseline"` to your `package.json`.
+- [get-baseline](https://get-baseline.schalkneethling.com/), search the Web Platform DX feature catalog, preview the real Baseline component, and paste the generated snippet into your project. Done.
 
 ## Web feature dashboards
 
