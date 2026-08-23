@@ -3,7 +3,7 @@ title: Baseline in the wild
 layout: "default.html"
 ---
 
-You can find web-features and Baseline data in the places listed below. If you spot somewhere else using Baseline, or are using Baseline on your own site, or to convey compat information in your library, [create a pull request to add it to the list](https://github.com/web-platform-dx/web-features/edit/main/gh-pages/src/baseline-in-the-wild.md).
+You can find web-features and Baseline data in the places listed below. If you spot somewhere else using Baseline, or are using Baseline on your own site, or to convey compat information in your library, [create a pull request to add it to the list](https://github.com/web-platform-dx/web-platform-dx.github.io/edit/main/src/baseline-in-the-wild.md).
 
 ## From browser vendors
 
@@ -30,6 +30,7 @@ You can find web-features and Baseline data in the places listed below. If you s
 - [RUM Archive Insights](https://rumarchive.com/insights/), a collection of RUM Archive data visualizations, including yearly Baseline features.
 - [Baseline MCP Server](https://github.com/yamanoku/baseline-mcp-server), a Model Context Protocol (MCP) server that provides Baseline information for web features.
 - [browserslist-config-baseline](https://github.com/web-platform-dx/browserslist-config-baseline), a module that turns Baseline targets into [browserslist](https://github.com/browserslist/browserslist)-compatible lists of browser versions. Dynamically target Widely available by installing the module using your package manager of choice and adding `"browserslist": "extends browserslist-config-baseline"` to your `package.json`.
+- [BaselineLab](https://baselinelab.dev/), a bilingual collection of interactive HTML and CSS labs with live previews, generated code, shareable configurations, and Baseline compatibility data from the Web Platform Status API.
 
 ## Web feature dashboards
 
