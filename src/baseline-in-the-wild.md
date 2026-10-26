@@ -21,6 +21,7 @@ You can find web-features and Baseline data in the places listed below. If you s
 
 - [use-baseline](https://github.com/eslint/css/blob/main/docs/rules/use-baseline.md), an ESLint CSS Language Plugin rule to enforce the use of Baseline features.
 - [stylelint-plugin-use-baseline](https://www.npmjs.com/package/stylelint-plugin-use-baseline), a Stylelint plugin to enforce the use of Baseline features in CSS.
+- [eslint-plugin-baseline-js](https://github.com/3ru/eslint-plugin-baseline-js), an ESLint plugin that reports JavaScript features outside a configured Baseline target.
 - [`<baseline-status>` web component](https://github.com/web-platform-dx/baseline-status), for displaying Baseline status on your own site.
 - [baseline.js.org](https://baseline.js.org), providing embeddable SVG widgets for displaying the Baseline status of web platform features (e.g. in Markdown).
 - [Baseline Status in a WordPress Block](https://css-tricks.com/baseline-status-in-a-wordpress-block/), to display the `<baseline-status>` web component in a WordPress block.
